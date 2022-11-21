@@ -7,12 +7,18 @@ scrapping dystopian books from wikipedia page
 - Install pip
 - Clone this repo
 Open a terminal and run
+```sh
 git clone git@github.com:rgrangeiro/dystopian_books.git
+```
 - Run requirements
+```sh
 pip install -r ./dystopian_books/requirements.txt
+```
 
 ## Run Jupyter notebook
+```sh
 jupyter notebook &
+```
 
 ## Open notebook
 Open a browser: http://localhost:8888/tree/dystopian_books
