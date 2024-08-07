@@ -88,7 +88,9 @@ terminado==0.17.0
 tinycss2==1.2.1
 tornado==6.4.1
 traitlets==5.5.0
+dependabot/pip/pip-b3aa560916
 urllib3==2.2.2
+master
 voila==0.5.7
 wcwidth==0.2.5
 webencodings==0.5.1
