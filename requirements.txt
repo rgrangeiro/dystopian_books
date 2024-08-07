@@ -96,4 +96,4 @@ websocket-client==1.4.2
 websockets==10.4
 widgetsnbextension==4.0.3
 xyzservices==2022.9.0
-zipp==3.10.0
+zipp==3.19.1
