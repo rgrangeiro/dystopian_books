@@ -88,7 +88,7 @@ terminado==0.17.0
 tinycss2==1.2.1
 tornado==6.4.1
 traitlets==5.5.0
-urllib3==1.26.19
+urllib3==2.2.2
 voila==0.4.4
 wcwidth==0.2.5
 webencodings==0.5.1
